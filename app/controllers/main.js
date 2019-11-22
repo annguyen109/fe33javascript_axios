@@ -15,7 +15,9 @@ getEle("btnThemNguoiDung").addEventListener("click" ,function(){
     document.getElementsByClassName("modal-footer")[0].innerHTML = footer;
 });
 
-
+function text{
+    console.log("thanh cong roi roi nha");
+}
 
 
 //Them Nguoi Dung
