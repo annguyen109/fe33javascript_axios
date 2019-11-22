@@ -16,7 +16,9 @@ getEle("btnThemNguoiDung").addEventListener("click" ,function(){
 });
 
 
-
+function themnguoidungtext{
+    console.log("them nguoi dung thu 22");
+}
 
 //Them Nguoi Dung
 function AddNguoiDung(){
